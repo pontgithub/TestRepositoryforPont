@@ -1,0 +1,20 @@
+Factory 
+1. Create new Bank Account
+2. Create new Bank Wallet
+3. Create new User Detail
+4. Create new WallettoBank
+
+Helper
+1. RemoveSpecialCharacters
+2. PreparePhoneNumber
+
+
+Impl
+
+1. Transfer
+2. CustomerLookup
+3. VerifyBankAccountNumber
+4. UserDetail
+
+Mapper
+ 
